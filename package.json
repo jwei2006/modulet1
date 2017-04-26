@@ -1,0 +1,19 @@
+{
+  "name": "modulet1",
+  "version": "1.0.0",
+  "description": "test module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwei2006/modulet1.git"
+  },
+  "author": "jw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwei2006/modulet1/issues"
+  },
+  "homepage": "https://github.com/jwei2006/modulet1#readme"
+}
